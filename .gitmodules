@@ -1,4 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/vadale/vadale.r-universe.dev
 	branch = HEAD
+[submodule "relm"]
+	path = relm
+	url = https://github.com/Vadale/R-ebirth
+	subdir = rebirth
