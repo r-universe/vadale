@@ -1,0 +1,10 @@
+{
+  "id": 145304133,
+  "created_at": "2026-07-08T21:01:27.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["R-ebirth"]
+}
